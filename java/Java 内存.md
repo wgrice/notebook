@@ -7,3 +7,4 @@ Java内存区域：
 - Socket缓存区
 - JIT代码
 - 虚拟机和GC
+
