@@ -1,8 +1,8 @@
 ## 概述
 
-Java中对引用的定义有如下四种：强引用，软引用，弱引用，虚引用四种。
+Java中对引用的定义有如下四种：强引用、软引用、弱引用、虚引用四种。
 
-![](C:\wg\project\git\notebook\image\java-reference-diagram.png)
+![Java 引用](C:\wg\project\git\notebook\image\java-reference-diagram.png)
 
 ## 强引用
 
